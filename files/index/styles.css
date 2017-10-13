@@ -2013,3 +2013,30 @@
   width:296px;
   word-wrap:break-word;
 }
+#u123 {
+  position:absolute;
+  left:35px;
+  top:128px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u124 {
+  position:absolute;
+  left:35px;
+  top:264px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u125 {
+  position:absolute;
+  left:35px;
+  top:405px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
