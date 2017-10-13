@@ -1,9 +1,10 @@
 ﻿body {
   margin:0px;
+  background-color:rgba(228, 228, 228, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:10px;
+  width:366px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -11,4 +12,32 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u177_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:444px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u177 {
+  position:absolute;
+  left:8px;
+  top:32px;
+  width:358px;
+  height:444px;
+}
+#u178 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  word-wrap:break-word;
 }
