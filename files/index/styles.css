@@ -2493,37 +2493,3 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u152_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:15px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u152 {
-  position:absolute;
-  left:60px;
-  top:564px;
-  width:15px;
-  height:20px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u153 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:15px;
-  white-space:nowrap;
-}
