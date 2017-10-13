@@ -2172,6 +2172,7 @@
   width:318px;
   height:79px;
   overflow:hidden;
+  visibility:hidden;
 }
 #u134_state0 {
   position:absolute;
